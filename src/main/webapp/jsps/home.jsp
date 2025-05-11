@@ -12,7 +12,7 @@
 <h1 align="center">LARSEN AND TURBO INFOTECH</h1>
 <h1 align="center"> </h1>
 
-<h2> L</h2>
+<h2> </h2>
 <hr>
 <br>
 	<h1><h3> </h3><br>
