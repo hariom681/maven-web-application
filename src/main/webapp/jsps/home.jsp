@@ -5,17 +5,17 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title></title>
-<link href="images/l&t.jpg" rel="icon">
+<link href="images/l&t.jpeg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">LARSEN AND TURBO INFOTECK</h1>
+<h1 align="center">LARSEN AND TURBO INFOTECH</h1>
 <h1 align="center"> </h1>
 
 <h2> L</h2>
 <hr>
 <br>
-	<h1><h3> Server Side IP Address </h3><br>
+	<h1><h3> </h3><br>
 
 <% 
 String ip = "";
@@ -27,13 +27,13 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <%out.println("Server IP Address :: "+ip);%>
 </h1>
 <br>
-<h1><h3> Client Side IP Address </h3><br>
+<h1><h3> </h3><br>
 <%out.print( "Client IP Address :: " + request.getRemoteAddr() ); %><br>
 <%out.print( "Client Name Host :: "+ request.getRemoteHost() );%><br></h1>
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/l&t.jpg" alt="" width="100">
+		<img src="images/l&t.jpeg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
 
@@ -45,8 +45,8 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2022 by <a href="http://mithuntechnologies.com/">Mithun Technologies,Bengaluru</a> </small></p>
+<p align=center></p>
+<p align=center><small>Copyrights 2022 by <a href=</a> </small></p>
 
 </body>
 </html>
