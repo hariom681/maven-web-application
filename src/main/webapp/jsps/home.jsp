@@ -4,15 +4,15 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<title></title>
+<link href="images/l&t.jpg" rel="icon">
 </head>
 </head>
 <body>
 <h1 align="center">LARSEN AND TURBO INFOTECK</h1>
 <h1 align="center"> </h1>
 
-<h2> Trainer Name: Balaji Reddy L</h2>
+<h2> L</h2>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -33,7 +33,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="images/l&t.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
 
