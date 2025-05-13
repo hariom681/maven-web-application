@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title> </title>
-<link href="images/l&t.jpeg" rel="icon">
+<link href="images/WhatsApp Image 2025-05-12 at 10.51.53 PM.jpeg" rel="icon">
 </head>
 </head>
 <body>
